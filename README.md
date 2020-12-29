@@ -7,3 +7,5 @@ You will need:
 1. jQuery >= 3.0
 2. HTML5
 3. CSS3
+
+Enjoy it!
